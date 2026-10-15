@@ -45,7 +45,7 @@ Please contact the [chairs][] with questions or comments.
 |      14:00 | (chairs)                          | **Intro**                                                                                                 |                      |
 |      14:05 | Laurent Toutain                   | CORECONF for Machine-to-Machine Communication                                                             | [draft][coreconf-m2m] |
 |      14:20 | Johanna Moran, Manu Sheel Gupta   | Resilience as a Protocol: Measurement, Analytics, Trust Signals, and Verifiable Network Intelligence for AI Agents, IoT Systems, and Decentralized Networks |                      |
-|      14:40 | Carlos Kamienski                  | (tbd)                                                                                                     |                      |
+|      14:40 | Carlos Kamienski                  | Application-Centric Considerations for Deployment over the IoT Computing Continuum                        |                      |
 |      14:55 | (chairs)                          | **Wrapup**                                                                                                |                      |
 
 [coreconf-m2m]: https://datatracker.ietf.org/doc/draft-toutain-t2trg-coreconf-m2m/
