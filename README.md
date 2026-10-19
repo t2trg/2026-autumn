@@ -14,8 +14,13 @@ trustworthy enough to act on?
 Could resilience measurements and trust signals become information
 that protocols expose and agents consume?
 
-In this interim meeting on October 28th, we look at both,
-and at further contributions listed in the agenda below.
+IoT applications can be split into functions spread over
+constrained devices, edge nodes, and cloud platforms, and where each
+function runs may have to change as conditions do.
+What would an application-centric view of deployment across this IoT
+computing continuum look like, and what role can AI agents play in it?
+
+On October 28th, we discuss these questions, each introduced by a talk.
 
 ## Logistics
 
